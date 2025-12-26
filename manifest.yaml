@@ -1,7 +1,7 @@
 version: 0.0.1
 type: plugin
-author: AtlasCloudAI
-name: dify-plugin-atlascloud
+author: atlascloudai
+name: atlascloud
 label:
   en_US: Atlas Cloud
 description:
