@@ -16,7 +16,7 @@ help:
     zh_Hans: "从 AtlasCloud 获取 API Key"
     ja_JP: "AtlasCloudからAPIキーを取得"
   url:
-    en_US: "https://console.atlascloud.ai/settings"
+    en_US: "https://console.atlascloud.ai/settings?utm_source=dify&utm_medium=link&utm_campaign=dify_plugin_atlascloud"
 supported_model_types:
   - llm
 configurate_methods:
